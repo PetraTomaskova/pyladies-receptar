@@ -1,2 +1,6 @@
 # pyladies-receptar
-Seznam receptu
+Seznam mych oblibenych receptu
+
+Sem budu psat recepty.
+
+Dalsi informace..
